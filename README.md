@@ -1,12 +1,11 @@
 # rpi_box_dinbeugel
  Mouting bracket on DIN for RaspberryPi
+![Screenshot](https://github.com/RobertFey/rpi_box_dinbeugel/blob/master/src/img/pi_box_din_bracket.png)<br>
 
 DIN-rail-brackets
 =================
 
 DIN rail brackets meant for 3D printing.
-
-
 
 Credits: https://raw.github.com/dzach/<br>
 ![Screenshot](https://raw.github.com/dzach/DIN-rail-brackets/master/img/DIN_bracket_Mega1.png)<br>
